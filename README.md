@@ -55,7 +55,7 @@ citation.generate();
 
 ## **"Image Citation Generator"**  `Belongs To`
 
-* Tom Ait-ouarab ( `Benevolent Dictators for Life` )
+* Tom Ait-ouarab ( `Benevolent Dictators for Life | dev` )
 
 ## **Contributor of the project**
 
