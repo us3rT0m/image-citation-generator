@@ -1,6 +1,6 @@
 const Jimp = require('Jimp');
 
-class Lyrics {
+class Citation {
     constructor(background, output, author, lyrics, color) {
         this.background = background;
         this.output = output;
@@ -83,4 +83,4 @@ class Lyrics {
     }
 }
 
-module.exports = Lyrics;
+module.exports = Citation;
