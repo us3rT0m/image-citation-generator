@@ -1,14 +1,22 @@
 {
   "name": "image-citation-generator",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "This project allows you to generate an image to highlight a quote from an author.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Larzas",
+  "author": "us3rT0m (https://github.com/us3rT0m)",
   "license": "MIT",
   "dependencies": {
     "jimp": "^0.16.1"
-  }
+  },
+  "keywords": [
+    "node",
+    "image",
+    "citation",
+    "js",
+    "javascript",
+    "package"
+  ]
 }
