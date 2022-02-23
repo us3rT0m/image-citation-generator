@@ -9,7 +9,7 @@
 ### This project allows you to generate an image to highlight a quote from an author.
 
 ### Here is an example :
-![Quote from akhenaton](ressources/new-img.png)
+![Quote from akhenaton](https://github.com/us3rT0m/image-citation-generator/blob/main/ressources/new-img.png)
 
 <br/>
 
@@ -69,17 +69,17 @@ See the [contributor](https://github.com/us3rT0m/image-citation-generator/graphs
 
 # <span style="color: #258589">License</span>
 
-**<span style="color: green">Image Citation Generator</span> is licensed under the [MIT](./LICENSE) license.**
+**<span style="color: green">Image Citation Generator</span> is licensed under the [MIT](https://github.com/us3rT0m/image-citation-generator/blob/main/LICENSE) license.**
 
 <br/>
 
 # <span style="color: #258589">Contributing</span>
 
 If you would like to join the adventure and contribute to the growth of our package, please note that we are open to contributions from all. 
-Please read our chapter on [contribution](./CONTRIBUTING.md) before you start.
+Please read our chapter on [contribution](https://github.com/us3rT0m/image-citation-generator/blob/main/CONTRIBUTING.md) before you start.
 
 <br/>
 
 # <span style="color: #258589">Code of conduct</span>
 
-Before you start drop some shit in our project, please read our [code of conduct](./CODE_OF_CONDUCT.md)
+Before you start drop some shit in our project, please read our [code of conduct](https://github.com/us3rT0m/image-citation-generator/blob/main/CODE_OF_CONDUCT.md)
