@@ -61,7 +61,7 @@ citation.generate();
 
 * Julien Coudert ( `dev` | `documentation` )
 * Omar Aboulbarge ( `documentatione` )
-* Dorian Jullian ( `dev` )
+* Dorian Jullian--Cambon ( `dev` )
 
 See the [contributor](https://github.com/us3rT0m/image-citation-generator/graphs/contributors)
 
