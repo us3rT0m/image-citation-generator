@@ -60,7 +60,7 @@ citation.generate();
 ## **Contributor of the project**
 
 * Julien Coudert ( `dev` | `documentation` )
-* Omar Aboulbarge ( `documentatione` )
+* Omar Aboulbarge ( `documentation` )
 * Dorian Jullian--Cambon ( `dev` )
 
 See the [contributor](https://github.com/us3rT0m/image-citation-generator/graphs/contributors)
